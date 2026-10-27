@@ -1,0 +1,9 @@
+arted: Project: M2M_Receiver_1, Configuration: Debug ------
+1>C:\Program Files\dotnet\sdk\10.0.301\Sdks\Microsoft.NET.Sdk\targets\Microsoft.PackageDependencyResolution.targets(266,5): error NETSDK1004: Assets file 'D:\SH\vs code\M2M\trail\M2M\M2M_Receiver\obj\project.assets.json' not found. Run a NuGet package restore to generate this file.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+Build failed.
+---------------------------------------------
+1>------ Build started: Project: M2M_Sender, Configuration: Debug ------
+1>C:\Program Files\dotnet\sdk\10.0.301\Sdks\Microsoft.NET.Sdk\targets\Microsoft.PackageDependencyResolution.targets(266,5): error NETSDK1004: Assets file 'D:\SH\vs code\M2M\trail\M2M\M2M_Sender\obj\project.assets.json' not found. Run a NuGet package restore to generate this file.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+Build failed.
